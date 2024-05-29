@@ -11,6 +11,8 @@
   	"caret_extra_width": 1,
   	"caret_style": "smooth",
   	"highlight_line": true,
+  	"show_encoding": true,
+  	"hardware_acceleration": "opengl",
   	
 	"theme": "TwoDark.sublime-theme",
 	"color_scheme": "TwoDark.sublime-color-scheme",
