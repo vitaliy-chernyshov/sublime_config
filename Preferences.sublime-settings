@@ -1,0 +1,18 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"translate_tabs_to_spaces": true,
+	"font_size": 13,
+  	"draw_shadows": false,
+  	"highlight_modified_tabs": true,
+  	"caret_extra_width": 1,
+  	"caret_style": "smooth",
+  	"highlight_line": true,
+  	
+	"theme": "TwoDark.sublime-theme",
+	"color_scheme": "TwoDark.sublime-color-scheme",
+
+}
